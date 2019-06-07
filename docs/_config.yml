@@ -1,1 +1,4 @@
 theme: jekyll-theme-tactile
+title: Tiquations
+description: Tiquations is an Open-Source Python package that is aimed at giving mathematicians and scientists easy access to important equations that they may use often.
+show_downloads: True
