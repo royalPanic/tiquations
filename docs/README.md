@@ -59,7 +59,7 @@ Here's a list of all equations currently available as methods in Tiquations:
 * Mirror magnification/Distance of image/Distance of object
 * Pendulums-Time/Length/Gravity
 
-To see more about these equations individually, read the [GitHub Wiki]().
+To see more about these equations individually, read the [GitHub Wiki](https://github.com/royalPanic/tiquations/wiki).
 
 # Support:
-If you are in need of support for this module, feel free to [open an issue on the GitHub repository]().
+If you are in need of support for this module, feel free to [open an issue on the GitHub repository](https://github.com/royalPanic/tiquations/issues/new).
